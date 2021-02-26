@@ -1,0 +1,124 @@
+spring-projects/spring-framework 1 2 21 26 127 132 171 172 1520 1852 23506
+spring-projects/spring-framework 4 1201 1223
+spring-projects/spring-framework 5 23445
+spring-projects/spring-framework 7 547 1951 23626
+spring-projects/spring-framework 11 14 98
+spring-projects/spring-framework 13 22520
+spring-projects/spring-framework 15 35 36 912 915 1691
+spring-projects/spring-framework 17 1420
+spring-projects/spring-framework 20 23141
+spring-projects/spring-framework 34 37 64 292
+spring-projects/spring-framework 47 48
+spring-projects/spring-framework 54 80
+spring-projects/spring-framework 58 23864 23873
+spring-projects/spring-framework 81 325
+spring-projects/spring-framework 114 24535
+spring-projects/spring-framework 136 1120
+spring-projects/spring-framework 140 1132
+spring-projects/spring-framework 142 200 202
+spring-projects/spring-framework 157 161
+spring-projects/spring-framework 163 22328 22367
+spring-projects/spring-framework 185 24311
+spring-projects/spring-framework 201 219 393 610
+spring-projects/spring-framework 206 211 217
+spring-projects/spring-framework 222 766
+spring-projects/spring-framework 256 875
+spring-projects/spring-framework 269 1286
+spring-projects/spring-framework 290 327
+spring-projects/spring-framework 291 1696
+spring-projects/spring-framework 306 334
+spring-projects/spring-framework 311 313
+spring-projects/spring-framework 336 351
+spring-projects/spring-framework 340 341
+spring-projects/spring-framework 389 22476
+spring-projects/spring-framework 390 398
+spring-projects/spring-framework 397 1048 1956 24595 24637 24678
+spring-projects/spring-framework 490 492
+spring-projects/spring-framework 517 567
+spring-projects/spring-framework 561 580
+spring-projects/spring-framework 566 569
+spring-projects/spring-framework 592 595
+spring-projects/spring-framework 681 682
+spring-projects/spring-framework 705 706
+spring-projects/spring-framework 713 1298
+spring-projects/spring-framework 725 728
+spring-projects/spring-framework 726 729
+spring-projects/spring-framework 742 743
+spring-projects/spring-framework 745 22881
+spring-projects/spring-framework 758 1827
+spring-projects/spring-framework 775 1005
+spring-projects/spring-framework 832 833
+spring-projects/spring-framework 861 976
+spring-projects/spring-framework 942 957
+spring-projects/spring-framework 943 23297
+spring-projects/spring-framework 1060 1242
+spring-projects/spring-framework 1098 1883
+spring-projects/spring-framework 1142 1143
+spring-projects/spring-framework 1163 1167
+spring-projects/spring-framework 1173 1174
+spring-projects/spring-framework 1187 1193
+spring-projects/spring-framework 1192 1199
+spring-projects/spring-framework 1218 1653
+spring-projects/spring-framework 1257 1258
+spring-projects/spring-framework 1262 1304
+spring-projects/spring-framework 1317 24019
+spring-projects/spring-framework 1337 1338
+spring-projects/spring-framework 1343 22372
+spring-projects/spring-framework 1345 1442
+spring-projects/spring-framework 1357 2070
+spring-projects/spring-framework 1435 1440
+spring-projects/spring-framework 1447 1451
+spring-projects/spring-framework 1492 1628 1629 1630
+spring-projects/spring-framework 1506 1932
+spring-projects/spring-framework 1551 1552 1554 1559
+spring-projects/spring-framework 1573 1574
+spring-projects/spring-framework 1596 1598
+spring-projects/spring-framework 1597 23371
+spring-projects/spring-framework 1615 1636
+spring-projects/spring-framework 1623 1624
+spring-projects/spring-framework 1678 24195
+spring-projects/spring-framework 1686 1688
+spring-projects/spring-framework 1695 1817
+spring-projects/spring-framework 1698 1705
+spring-projects/spring-framework 1752 1755
+spring-projects/spring-framework 1778 1807
+spring-projects/spring-framework 1793 1794
+spring-projects/spring-framework 1814 1996
+spring-projects/spring-framework 1831 1845
+spring-projects/spring-framework 1931 1933
+spring-projects/spring-framework 1993 1994
+spring-projects/spring-framework 2005 2006
+spring-projects/spring-framework 2033 2034
+spring-projects/spring-framework 2036 2037
+spring-projects/spring-framework 2039 22545 22546
+spring-projects/spring-framework 2063 23736
+spring-projects/spring-framework 22257 22277
+spring-projects/spring-framework 22314 22315
+spring-projects/spring-framework 22330 22430
+spring-projects/spring-framework 22514 22515
+spring-projects/spring-framework 22617 22622 22635 22637
+spring-projects/spring-framework 23132 23140
+spring-projects/spring-framework 23255 23735
+spring-projects/spring-framework 23414 23980
+spring-projects/spring-framework 23530 23580 23583
+spring-projects/spring-framework 23540 23614 23700 23703
+spring-projects/spring-framework 23671 23772
+spring-projects/spring-framework 23681 23682
+spring-projects/spring-framework 23729 23971
+spring-projects/spring-framework 23732 23733
+spring-projects/spring-framework 23764 23815
+spring-projects/spring-framework 23994 24007
+spring-projects/spring-framework 24490 24525
+spring-projects/spring-framework 24572 24578
+spring-projects/spring-framework 24589 24619
+spring-projects/spring-framework 24681 24756
+spring-projects/spring-framework 24705 24800
+spring-projects/spring-framework 24785 24786
+spring-projects/spring-framework 24795 24796
+spring-projects/spring-framework 24818 24823
+spring-projects/spring-framework 24870 24924
+spring-projects/spring-framework 24907 24925
+spring-projects/spring-framework 24987 24988
+spring-projects/spring-framework 24989 25096
+spring-projects/spring-framework 25054 25072
+spring-projects/spring-framework 25159 25160
