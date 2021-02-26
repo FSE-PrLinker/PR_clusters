@@ -1,0 +1,76 @@
+HTBox/allReady 85 91
+HTBox/allReady 93 95
+HTBox/allReady 97 101
+HTBox/allReady 98 102
+HTBox/allReady 103 105
+HTBox/allReady 130 134
+HTBox/allReady 155 156
+HTBox/allReady 196 802 964 966 990 1749
+HTBox/allReady 211 217
+HTBox/allReady 269 292
+HTBox/allReady 285 289
+HTBox/allReady 307 322
+HTBox/allReady 401 404
+HTBox/allReady 451 463
+HTBox/allReady 484 485
+HTBox/allReady 491 514 518 523 596 602
+HTBox/allReady 493 495
+HTBox/allReady 564 590
+HTBox/allReady 576 577
+HTBox/allReady 623 632
+HTBox/allReady 638 892
+HTBox/allReady 671 727 751
+HTBox/allReady 672 679
+HTBox/allReady 713 714
+HTBox/allReady 717 718 721
+HTBox/allReady 722 723 725 726
+HTBox/allReady 747 749 788
+HTBox/allReady 798 844
+HTBox/allReady 824 826
+HTBox/allReady 836 852
+HTBox/allReady 837 962
+HTBox/allReady 845 847 850
+HTBox/allReady 875 881
+HTBox/allReady 957 971
+HTBox/allReady 969 995 1009
+HTBox/allReady 980 1146 1182 1208
+HTBox/allReady 989 998 1004
+HTBox/allReady 999 1005 1039
+HTBox/allReady 1006 1016 1051
+HTBox/allReady 1042 1044
+HTBox/allReady 1096 1103
+HTBox/allReady 1111 1400
+HTBox/allReady 1128 1142
+HTBox/allReady 1131 1152 1175
+HTBox/allReady 1161 1162
+HTBox/allReady 1176 1367
+HTBox/allReady 1186 1218
+HTBox/allReady 1195 1204
+HTBox/allReady 1242 1254
+HTBox/allReady 1269 1270
+HTBox/allReady 1279 1280
+HTBox/allReady 1390 1393
+HTBox/allReady 1408 1409
+HTBox/allReady 1416 1442
+HTBox/allReady 1469 1481
+HTBox/allReady 1489 1685 1723
+HTBox/allReady 1598 1599 1604
+HTBox/allReady 1656 1659
+HTBox/allReady 1660 1936
+HTBox/allReady 1664 1674
+HTBox/allReady 1705 1747 1775
+HTBox/allReady 1732 1781
+HTBox/allReady 1853 1854 1856
+HTBox/allReady 1934 1935
+HTBox/allReady 1945 1950 1957
+HTBox/allReady 1970 1971 1974
+HTBox/allReady 1977 1978
+HTBox/allReady 2009 2029 2037
+HTBox/allReady 2059 2063
+HTBox/allReady 2167 2168
+HTBox/allReady 2252 2253 2255
+HTBox/allReady 2267 2305
+HTBox/allReady 2347 2351
+HTBox/allReady 2349 2350 2352
+HTBox/allReady 2358 2363
+HTBox/allReady 2360 2364

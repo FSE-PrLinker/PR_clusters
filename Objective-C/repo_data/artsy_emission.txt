@@ -1,0 +1,194 @@
+artsy/emission 1 203 215 510 543 548 549 550 565 568 1673
+artsy/emission 5 419 420
+artsy/emission 8 1209 1220 1604
+artsy/emission 10 269 465 471 795
+artsy/emission 17 616 734 780 991 1117 1210 1436 1550 1551 1553 1556 1566 1573 1691 1710 1725 2067 2068 2073
+artsy/emission 26 756 779
+artsy/emission 27 724
+artsy/emission 28 299 385
+artsy/emission 29 1252 1255 1448
+artsy/emission 37 38
+artsy/emission 49 1351
+artsy/emission 54 804 1402
+artsy/emission 56 59 1462
+artsy/emission 60 402
+artsy/emission 72 1583
+artsy/emission 76 80
+artsy/emission 77 1584 1585
+artsy/emission 109 1199 1215 1765
+artsy/emission 117 1063 1064 1074
+artsy/emission 124 1866 1880
+artsy/emission 127 1554
+artsy/emission 128 1890
+artsy/emission 142 149
+artsy/emission 144 1981
+artsy/emission 150 151 1582 1619
+artsy/emission 175 1658
+artsy/emission 176 586 587 603
+artsy/emission 196 201
+artsy/emission 206 207 216
+artsy/emission 208 567 582 596 597 1728 1737
+artsy/emission 225 730 731
+artsy/emission 230 485
+artsy/emission 239 241
+artsy/emission 263 305 1293
+artsy/emission 265 1818 1906
+artsy/emission 292 1762 2059
+artsy/emission 304 1833
+artsy/emission 324 326
+artsy/emission 330 380 406 432 454 1960
+artsy/emission 338 1901 1908
+artsy/emission 343 1915
+artsy/emission 362 1783 1935
+artsy/emission 367 1950
+artsy/emission 368 371
+artsy/emission 372 450
+artsy/emission 376 706
+artsy/emission 400 409
+artsy/emission 430 433
+artsy/emission 437 438 453 499
+artsy/emission 441 448
+artsy/emission 457 463 466 467
+artsy/emission 469 529 530
+artsy/emission 475 476
+artsy/emission 477 478 482
+artsy/emission 491 693
+artsy/emission 503 504 508 509
+artsy/emission 522 523 913 982 985
+artsy/emission 527 1687
+artsy/emission 558 825
+artsy/emission 570 585
+artsy/emission 574 584
+artsy/emission 588 590
+artsy/emission 609 1745 2085
+artsy/emission 612 619
+artsy/emission 627 668 2040
+artsy/emission 630 632 652 680 875
+artsy/emission 675 676
+artsy/emission 689 739
+artsy/emission 694 695
+artsy/emission 720 721
+artsy/emission 725 727
+artsy/emission 726 728
+artsy/emission 729 741
+artsy/emission 743 747
+artsy/emission 775 777 785
+artsy/emission 781 782
+artsy/emission 787 793
+artsy/emission 803 805 806
+artsy/emission 807 817
+artsy/emission 809 1386
+artsy/emission 815 820 1591 1617 1623
+artsy/emission 826 830
+artsy/emission 851 862
+artsy/emission 874 878 889
+artsy/emission 884 899 902
+artsy/emission 890 895
+artsy/emission 893 920
+artsy/emission 903 909 910 915 968
+artsy/emission 923 977
+artsy/emission 929 931
+artsy/emission 932 933
+artsy/emission 947 950
+artsy/emission 952 953
+artsy/emission 954 983
+artsy/emission 955 956
+artsy/emission 979 980
+artsy/emission 1002 1005 1006 1007 1009 1050 1053
+artsy/emission 1003 1004
+artsy/emission 1010 1011
+artsy/emission 1012 1014 1015
+artsy/emission 1020 1021
+artsy/emission 1025 1031 1036 1041
+artsy/emission 1032 1040
+artsy/emission 1035 1037 1038
+artsy/emission 1039 1045 1049
+artsy/emission 1042 1043
+artsy/emission 1051 1056
+artsy/emission 1055 1072
+artsy/emission 1058 1061 1068
+artsy/emission 1066 1071
+artsy/emission 1069 1070
+artsy/emission 1073 1076
+artsy/emission 1083 1132
+artsy/emission 1084 1086
+artsy/emission 1096 1098
+artsy/emission 1106 1107
+artsy/emission 1118 1122 1125 1126
+artsy/emission 1120 1121
+artsy/emission 1123 1128 1129 1133
+artsy/emission 1124 1190
+artsy/emission 1137 1139
+artsy/emission 1152 1178
+artsy/emission 1162 1574
+artsy/emission 1168 1169
+artsy/emission 1172 1177
+artsy/emission 1185 1186
+artsy/emission 1198 1205
+artsy/emission 1200 1421
+artsy/emission 1201 1204
+artsy/emission 1211 1212 1213
+artsy/emission 1224 1227
+artsy/emission 1239 1620
+artsy/emission 1243 1244
+artsy/emission 1245 1246
+artsy/emission 1263 1264
+artsy/emission 1268 1272
+artsy/emission 1281 1285
+artsy/emission 1289 1290
+artsy/emission 1300 1302 1755
+artsy/emission 1329 1345
+artsy/emission 1331 1333
+artsy/emission 1359 1527
+artsy/emission 1374 1377 1380
+artsy/emission 1375 1379
+artsy/emission 1385 1393 1560
+artsy/emission 1387 1390
+artsy/emission 1394 1395
+artsy/emission 1397 1437
+artsy/emission 1406 1412
+artsy/emission 1414 1416
+artsy/emission 1428 1758
+artsy/emission 1429 1521
+artsy/emission 1438 1440
+artsy/emission 1442 1443 1451
+artsy/emission 1445 1459
+artsy/emission 1465 1479
+artsy/emission 1476 1487
+artsy/emission 1478 1481 1488
+artsy/emission 1502 1526
+artsy/emission 1510 1511
+artsy/emission 1543 1544
+artsy/emission 1559 1706
+artsy/emission 1561 1562
+artsy/emission 1590 1592
+artsy/emission 1599 1600
+artsy/emission 1602 1609
+artsy/emission 1605 1608
+artsy/emission 1621 1625
+artsy/emission 1654 2081
+artsy/emission 1703 1707
+artsy/emission 1705 1734
+artsy/emission 1730 1732
+artsy/emission 1741 1742 1743 1744
+artsy/emission 1756 1854
+artsy/emission 1768 1769
+artsy/emission 1774 1886
+artsy/emission 1781 2046
+artsy/emission 1829 1830
+artsy/emission 1831 1927
+artsy/emission 1835 1836
+artsy/emission 1837 1859
+artsy/emission 1863 1872
+artsy/emission 1864 1869
+artsy/emission 1870 1877
+artsy/emission 1920 1921 1924 1930
+artsy/emission 1922 1923
+artsy/emission 1993 2061
+artsy/emission 1994 1999 2008
+artsy/emission 2001 2006 2032 2033
+artsy/emission 2026 2034
+artsy/emission 2027 2028
+artsy/emission 2037 2039
+artsy/emission 2058 2062
+artsy/emission 2075 2078
