@@ -1,0 +1,189 @@
+Cockatrice/Cockatrice 2 3 85 214 233 238 243 1051 3770 3771 3776
+Cockatrice/Cockatrice 8 3638
+Cockatrice/Cockatrice 12 605 615 2804
+Cockatrice/Cockatrice 19 686
+Cockatrice/Cockatrice 20 3545
+Cockatrice/Cockatrice 22 37 47 53 56 58 59 61 86 93 838 961
+Cockatrice/Cockatrice 35 36
+Cockatrice/Cockatrice 62 3694
+Cockatrice/Cockatrice 82 83 251 920 3934
+Cockatrice/Cockatrice 94 126
+Cockatrice/Cockatrice 151 185 194
+Cockatrice/Cockatrice 163 1162
+Cockatrice/Cockatrice 179 274
+Cockatrice/Cockatrice 224 891 966 985 1039 1103 1110
+Cockatrice/Cockatrice 260 375
+Cockatrice/Cockatrice 270 271
+Cockatrice/Cockatrice 275 279
+Cockatrice/Cockatrice 291 292
+Cockatrice/Cockatrice 303 304
+Cockatrice/Cockatrice 313 314
+Cockatrice/Cockatrice 336 940
+Cockatrice/Cockatrice 339 341
+Cockatrice/Cockatrice 346 353 355
+Cockatrice/Cockatrice 349 352 354
+Cockatrice/Cockatrice 357 358
+Cockatrice/Cockatrice 366 377
+Cockatrice/Cockatrice 416 417 423 440
+Cockatrice/Cockatrice 436 456
+Cockatrice/Cockatrice 449 471 496
+Cockatrice/Cockatrice 491 1646
+Cockatrice/Cockatrice 495 516
+Cockatrice/Cockatrice 510 515
+Cockatrice/Cockatrice 535 1243 1257
+Cockatrice/Cockatrice 558 637
+Cockatrice/Cockatrice 571 573
+Cockatrice/Cockatrice 575 608
+Cockatrice/Cockatrice 630 644 654
+Cockatrice/Cockatrice 634 638
+Cockatrice/Cockatrice 676 708
+Cockatrice/Cockatrice 703 704
+Cockatrice/Cockatrice 712 720 733
+Cockatrice/Cockatrice 721 917
+Cockatrice/Cockatrice 729 732
+Cockatrice/Cockatrice 780 832 1101
+Cockatrice/Cockatrice 792 1081
+Cockatrice/Cockatrice 795 798
+Cockatrice/Cockatrice 796 809
+Cockatrice/Cockatrice 839 840
+Cockatrice/Cockatrice 846 861
+Cockatrice/Cockatrice 847 854
+Cockatrice/Cockatrice 859 882
+Cockatrice/Cockatrice 879 905
+Cockatrice/Cockatrice 881 907
+Cockatrice/Cockatrice 889 890
+Cockatrice/Cockatrice 904 916 1024
+Cockatrice/Cockatrice 910 928
+Cockatrice/Cockatrice 935 958
+Cockatrice/Cockatrice 946 1034
+Cockatrice/Cockatrice 964 965
+Cockatrice/Cockatrice 968 971 974
+Cockatrice/Cockatrice 988 3658
+Cockatrice/Cockatrice 1001 1002
+Cockatrice/Cockatrice 1005 1022
+Cockatrice/Cockatrice 1009 1023
+Cockatrice/Cockatrice 1016 1017
+Cockatrice/Cockatrice 1027 1584 1728
+Cockatrice/Cockatrice 1045 1047
+Cockatrice/Cockatrice 1046 1062
+Cockatrice/Cockatrice 1067 1090
+Cockatrice/Cockatrice 1071 1075
+Cockatrice/Cockatrice 1129 1141
+Cockatrice/Cockatrice 1137 1153
+Cockatrice/Cockatrice 1148 1150
+Cockatrice/Cockatrice 1175 1179 1189
+Cockatrice/Cockatrice 1180 1205
+Cockatrice/Cockatrice 1197 1979
+Cockatrice/Cockatrice 1210 1224
+Cockatrice/Cockatrice 1256 1332 1382
+Cockatrice/Cockatrice 1261 1267
+Cockatrice/Cockatrice 1302 1303
+Cockatrice/Cockatrice 1325 1326
+Cockatrice/Cockatrice 1340 1344 1350
+Cockatrice/Cockatrice 1352 1353
+Cockatrice/Cockatrice 1378 1379
+Cockatrice/Cockatrice 1388 1648 1650
+Cockatrice/Cockatrice 1405 1981 1982 1985 2639
+Cockatrice/Cockatrice 1421 1760 2313
+Cockatrice/Cockatrice 1424 1498
+Cockatrice/Cockatrice 1432 1434
+Cockatrice/Cockatrice 1439 2000 2242
+Cockatrice/Cockatrice 1474 1527 1593 1604
+Cockatrice/Cockatrice 1501 1615
+Cockatrice/Cockatrice 1522 1541
+Cockatrice/Cockatrice 1544 1753
+Cockatrice/Cockatrice 1556 1558 1642
+Cockatrice/Cockatrice 1600 1641
+Cockatrice/Cockatrice 1638 1955 1959 2363
+Cockatrice/Cockatrice 1668 1715
+Cockatrice/Cockatrice 1714 1717 1727 1776
+Cockatrice/Cockatrice 1722 1734
+Cockatrice/Cockatrice 1841 2452
+Cockatrice/Cockatrice 1914 1926
+Cockatrice/Cockatrice 1921 2134
+Cockatrice/Cockatrice 1991 2096
+Cockatrice/Cockatrice 1997 1998
+Cockatrice/Cockatrice 2002 2500 2509
+Cockatrice/Cockatrice 2011 2014 2016
+Cockatrice/Cockatrice 2025 2087
+Cockatrice/Cockatrice 2071 2076
+Cockatrice/Cockatrice 2084 2097
+Cockatrice/Cockatrice 2099 2111
+Cockatrice/Cockatrice 2164 2255
+Cockatrice/Cockatrice 2200 2352
+Cockatrice/Cockatrice 2220 2236
+Cockatrice/Cockatrice 2267 2305
+Cockatrice/Cockatrice 2336 2354
+Cockatrice/Cockatrice 2345 2351 2373 2511 2516 2536 2550 2565 2584 4037
+Cockatrice/Cockatrice 2348 2433 3822 3828
+Cockatrice/Cockatrice 2359 2362 2364 2462
+Cockatrice/Cockatrice 2370 2393
+Cockatrice/Cockatrice 2377 2398
+Cockatrice/Cockatrice 2427 2488
+Cockatrice/Cockatrice 2464 2484
+Cockatrice/Cockatrice 2472 2513
+Cockatrice/Cockatrice 2503 2566
+Cockatrice/Cockatrice 2508 2570 2575 2613 2668 2692 2737 2858 2859
+Cockatrice/Cockatrice 2515 2534
+Cockatrice/Cockatrice 2605 2636
+Cockatrice/Cockatrice 2638 2645
+Cockatrice/Cockatrice 2646 2751
+Cockatrice/Cockatrice 2655 2714 2719 2744
+Cockatrice/Cockatrice 2666 2674
+Cockatrice/Cockatrice 2670 2706
+Cockatrice/Cockatrice 2684 2686
+Cockatrice/Cockatrice 2687 2688
+Cockatrice/Cockatrice 2781 2787 3238 3710
+Cockatrice/Cockatrice 2784 2991
+Cockatrice/Cockatrice 2796 2797
+Cockatrice/Cockatrice 2818 2822
+Cockatrice/Cockatrice 2826 2829
+Cockatrice/Cockatrice 2885 2974 2975
+Cockatrice/Cockatrice 2888 2892
+Cockatrice/Cockatrice 2890 2891
+Cockatrice/Cockatrice 2897 2905 2912
+Cockatrice/Cockatrice 2922 2923
+Cockatrice/Cockatrice 2944 2949
+Cockatrice/Cockatrice 2969 2976 2978 2979 2980
+Cockatrice/Cockatrice 3000 3003
+Cockatrice/Cockatrice 3020 3421
+Cockatrice/Cockatrice 3025 3034
+Cockatrice/Cockatrice 3028 3047 3048 3083 3338 3384
+Cockatrice/Cockatrice 3041 3046
+Cockatrice/Cockatrice 3051 3163
+Cockatrice/Cockatrice 3056 3057
+Cockatrice/Cockatrice 3100 3145 3149 3151 3152
+Cockatrice/Cockatrice 3108 3217
+Cockatrice/Cockatrice 3113 3649
+Cockatrice/Cockatrice 3116 3118
+Cockatrice/Cockatrice 3171 3172
+Cockatrice/Cockatrice 3192 3204
+Cockatrice/Cockatrice 3223 3307
+Cockatrice/Cockatrice 3243 3258 3328 3332 3375
+Cockatrice/Cockatrice 3270 3273 3275
+Cockatrice/Cockatrice 3300 3323
+Cockatrice/Cockatrice 3320 3321
+Cockatrice/Cockatrice 3363 3364 3367
+Cockatrice/Cockatrice 3412 3542
+Cockatrice/Cockatrice 3415 3420 3433 3435 3438 3439 3441 3443 3444 3449 3452 3509
+Cockatrice/Cockatrice 3422 3425
+Cockatrice/Cockatrice 3423 3424
+Cockatrice/Cockatrice 3432 3805
+Cockatrice/Cockatrice 3446 3447 3472
+Cockatrice/Cockatrice 3455 3461 3512 3584 3714 3716
+Cockatrice/Cockatrice 3458 3480
+Cockatrice/Cockatrice 3511 3728
+Cockatrice/Cockatrice 3515 3727
+Cockatrice/Cockatrice 3534 3646
+Cockatrice/Cockatrice 3549 3759 3760
+Cockatrice/Cockatrice 3567 3571 3572
+Cockatrice/Cockatrice 3589 3708
+Cockatrice/Cockatrice 3641 3731
+Cockatrice/Cockatrice 3652 3672
+Cockatrice/Cockatrice 3732 3734 3739
+Cockatrice/Cockatrice 3740 3748
+Cockatrice/Cockatrice 3831 3974
+Cockatrice/Cockatrice 3898 3908
+Cockatrice/Cockatrice 3904 3965
+Cockatrice/Cockatrice 3946 3973 3988
+Cockatrice/Cockatrice 3995 3997 4001

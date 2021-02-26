@@ -1,0 +1,227 @@
+api-platform/core 1 2 3 4 5 6 7 14 16 17 19 24 28 34 43 44 51 52 57 59 60 63 65 66 80 85 90 94 95 96 98 99 101 108 123 125 139 150 159 188 195 199 209 211 213 214 216 222 230 234 242 250 254 273 276 287 289 297 311 312 328 337 339 343 344 433 436 448 450 452 456 461 462 467 472 486 492 507 526 543 544 547 569 571 578 584 608 613 616 636 646 648 655 666 699 705 710 719 720 725 734 747 768 773 785 790 797 813 841 862 863 864 875 877 885 904 906 907 910 915 938 950 952 955 956 964 967 970 975 978 984 992 993 997 1000 1002 1009 1010 1014 1020 1024 1036 1077 1084 1097 1099 1101 1102 1104 1105 1111 1113 1115 1123 1132 1137 1138 1152 1175 1188 1190 1192 1206 1225 1227 1234 1240 1245 1247 1248 1256 1257 1259 1262 1263 1286 1293 1296 1305 1332 1351 1364 1365 1403 1405 1406 1407 1416 1419 1467 1476 1478 1480 1489 1501 1503 1504 1505 1513 1518 1524 1546 1547 1552 1580 1601 1604 1608 1631 1633 1634 1645 1663 1682 1685 1702 1716 1743 1749 1751 1752 1756 1762 1765 1781 1788 1798 1800 1813 1819 1820 1824 1826 1834 1837 1843 1850 1853 1855 1861 1866 1868 1871 1872 1874 1875 1876 1877 1883 1886 1888 1891 1892 1894 1897 1899 1905 1907 1908 1909 1911 1915 1916 1917 1923 1924 1926 1927 1931 1939 1957 1962 1963 1976 1977 1988 1991 1993 2003 2004 2006 2022 2029 2086 2106 2126 2144 2162 2170 2178 2235 2243 2282 2283 2284 2323 2326 2329 2384 2396 2398 2399 2404 2407 2428 2481 2483 2484 2487 2495 2506 2532 2578 2579 2590 2594 2598 2608 2672 2676 2678 2679 2688 2703 2714 2715 2723 2745 2760 2780 2784 2785 2787 2797 2810 2822 2841 2843 2878 2884 2885 2886 2887 2910 2911 2915 2916 2917 2920 2925 2934 2938 2940 2959 2978 2983 2990 2992 3000 3003 3013 3015 3034 3041 3053 3073 3095 3113 3120 3166 3204 3221 3227 3228 3231 3262 3265 3368 3396 3431 3466 3503 3525 3529 3617
+api-platform/core 8 180 271 286 409 982
+api-platform/core 12 1662
+api-platform/core 30 384 443
+api-platform/core 37 714 2450
+api-platform/core 58 577
+api-platform/core 61 201 548
+api-platform/core 68 76
+api-platform/core 86 88
+api-platform/core 115 116
+api-platform/core 118 119
+api-platform/core 131 146 174 204 392 449
+api-platform/core 160 240 869 1078 1271
+api-platform/core 179 1676 2840
+api-platform/core 191 193
+api-platform/core 197 1080 1089
+api-platform/core 205 228 782 805 909 1274 1786 2757 2815 3036 3145 3148
+api-platform/core 207 220
+api-platform/core 221 277 1046 1063 1100 2728 3275 3454
+api-platform/core 225 410 501 678
+api-platform/core 233 1297
+api-platform/core 237 239 1251
+api-platform/core 251 295
+api-platform/core 260 313
+api-platform/core 272 275
+api-platform/core 299 302 307 520
+api-platform/core 304 305
+api-platform/core 323 324 752
+api-platform/core 330 1472 1483 1509 3425
+api-platform/core 335 336 1184
+api-platform/core 342 1460 1464
+api-platform/core 346 347 348 349 1219
+api-platform/core 351 751 893 1512 1520 2708 3084 3196 3198
+api-platform/core 364 369 390
+api-platform/core 368 1607
+api-platform/core 373 1528 1696 3594
+api-platform/core 375 378 387 415 422 458 564 631
+api-platform/core 379 389
+api-platform/core 386 1678 1680
+api-platform/core 394 399 400 1433 1466 2732 2921
+api-platform/core 418 1470 1690 1732
+api-platform/core 419 488
+api-platform/core 427 1625
+api-platform/core 444 663 688
+api-platform/core 459 471
+api-platform/core 469 470
+api-platform/core 483 1189
+api-platform/core 490 498
+api-platform/core 496 511
+api-platform/core 502 504 1534
+api-platform/core 508 512 513 514 516
+api-platform/core 517 519
+api-platform/core 524 597 1065 2070
+api-platform/core 529 816
+api-platform/core 532 541 542
+api-platform/core 533 550 552
+api-platform/core 540 1967 2064 2175 2223
+api-platform/core 553 561 2129 2142 2549 2560
+api-platform/core 568 573
+api-platform/core 575 576
+api-platform/core 588 599
+api-platform/core 590 591
+api-platform/core 611 2140 2143
+api-platform/core 625 2257
+api-platform/core 626 627 2445 2447 2492 2510 2655 2738
+api-platform/core 633 661
+api-platform/core 645 1825 1846
+api-platform/core 652 2247
+api-platform/core 653 657 660
+api-platform/core 658 2252
+api-platform/core 680 683
+api-platform/core 702 2288 2318
+api-platform/core 704 2337
+api-platform/core 706 886 2302 2317 2335 2344
+api-platform/core 715 733 735 838 1725 1827
+api-platform/core 723 736
+api-platform/core 764 799 2183 2188 2205
+api-platform/core 770 772 814 821 823 837 843 2454 2629 2648 2650 2651 2710 2779 2811 2814
+api-platform/core 771 2611 2639
+api-platform/core 774 787
+api-platform/core 778 798 800
+api-platform/core 789 1128 3308
+api-platform/core 796 803
+api-platform/core 812 822 825 831
+api-platform/core 826 2819
+api-platform/core 827 2789
+api-platform/core 828 839
+api-platform/core 866 2260 2972 3367
+api-platform/core 873 1265 3063 3149 3630 3632
+api-platform/core 874 3086 3088
+api-platform/core 895 896
+api-platform/core 926 1011
+api-platform/core 931 937
+api-platform/core 979 980
+api-platform/core 995 996
+api-platform/core 1042 1056
+api-platform/core 1052 2970 2976
+api-platform/core 1060 2628
+api-platform/core 1073 1074
+api-platform/core 1087 1098
+api-platform/core 1093 2693
+api-platform/core 1134 1560 1561 1569 1570 1572 1582 3589 3620 3621
+api-platform/core 1141 1143
+api-platform/core 1180 1181
+api-platform/core 1183 1202 1203 3283 3298 3309
+api-platform/core 1198 1249
+api-platform/core 1209 1216
+api-platform/core 1221 1231
+api-platform/core 1235 1237
+api-platform/core 1261 1335
+api-platform/core 1279 1283
+api-platform/core 1307 1780
+api-platform/core 1315 1344
+api-platform/core 1321 1323 1324
+api-platform/core 1330 1456
+api-platform/core 1333 1339 3281
+api-platform/core 1340 1342 3285
+api-platform/core 1346 3390
+api-platform/core 1348 1445
+api-platform/core 1349 1350
+api-platform/core 1353 1355
+api-platform/core 1366 1368 1369
+api-platform/core 1412 1413 1417
+api-platform/core 1415 1438
+api-platform/core 1430 1431
+api-platform/core 1439 3388 3402 3518
+api-platform/core 1449 1475
+api-platform/core 1450 1516 1517 2899
+api-platform/core 1468 1469
+api-platform/core 1487 1488
+api-platform/core 1499 1502
+api-platform/core 1557 1581
+api-platform/core 1563 1577
+api-platform/core 1591 1593
+api-platform/core 1612 1617
+api-platform/core 1619 2367 2372
+api-platform/core 1620 2148 2150
+api-platform/core 1687 1722
+api-platform/core 1692 1723
+api-platform/core 1707 1789
+api-platform/core 1746 3327 3328
+api-platform/core 1761 1804
+api-platform/core 1766 1808
+api-platform/core 1770 1771
+api-platform/core 1782 2226
+api-platform/core 1803 1805
+api-platform/core 1810 1844 1974 2388 2630 2640 2643 2664 2702 2722 2825
+api-platform/core 1812 2698
+api-platform/core 1830 1848
+api-platform/core 1847 1852
+api-platform/core 1906 2000 2524
+api-platform/core 1960 3019 3021 3114 3134
+api-platform/core 1971 2010 2017 2021
+api-platform/core 1999 2446
+api-platform/core 2013 2016
+api-platform/core 2014 2015
+api-platform/core 2039 2043 2045 2046 2047 2050
+api-platform/core 2054 2699
+api-platform/core 2074 2861 2869 3232 3248 3273 3274
+api-platform/core 2087 2088
+api-platform/core 2108 2122 3427
+api-platform/core 2114 2241
+api-platform/core 2173 2174
+api-platform/core 2187 2210 2378
+api-platform/core 2221 2791 2793
+api-platform/core 2228 2268
+api-platform/core 2267 2271 2272 2273
+api-platform/core 2290 2403
+api-platform/core 2298 2514
+api-platform/core 2307 2314
+api-platform/core 2347 2402
+api-platform/core 2348 2350
+api-platform/core 2358 2576
+api-platform/core 2376 2727
+api-platform/core 2377 2751 2765 2897 2906
+api-platform/core 2391 2406
+api-platform/core 2393 2413
+api-platform/core 2408 2426
+api-platform/core 2453 2455
+api-platform/core 2463 2516
+api-platform/core 2513 2530 2536
+api-platform/core 2519 2544
+api-platform/core 2523 2562 2709
+api-platform/core 2538 2540
+api-platform/core 2542 2543
+api-platform/core 2545 3616
+api-platform/core 2566 2592
+api-platform/core 2569 2583 2584
+api-platform/core 2603 2606
+api-platform/core 2615 2620
+api-platform/core 2685 2695
+api-platform/core 2712 2734
+api-platform/core 2746 2748
+api-platform/core 2749 3241
+api-platform/core 2836 2919
+api-platform/core 2851 2853
+api-platform/core 2930 2960 2975
+api-platform/core 2954 3079 3093 3096 3112 3135 3151 3230
+api-platform/core 2971 3007
+api-platform/core 2994 2999 3001 3027
+api-platform/core 3005 3029
+api-platform/core 3009 3240
+api-platform/core 3020 3071
+api-platform/core 3039 3070
+api-platform/core 3054 3178
+api-platform/core 3121 3128
+api-platform/core 3138 3532
+api-platform/core 3175 3517
+api-platform/core 3208 3210
+api-platform/core 3253 3260
+api-platform/core 3276 3472
+api-platform/core 3292 3293
+api-platform/core 3306 3321
+api-platform/core 3331 3457 3475 3493 3520 3521 3541
+api-platform/core 3338 3433 3443
+api-platform/core 3362 3397
+api-platform/core 3372 3373
+api-platform/core 3386 3410
+api-platform/core 3452 3453
+api-platform/core 3455 3516
+api-platform/core 3456 3497
+api-platform/core 3477 3514
+api-platform/core 3494 3511
+api-platform/core 3552 3611
+api-platform/core 3560 3564 3572
+api-platform/core 3561 3582
+api-platform/core 3567 3568
