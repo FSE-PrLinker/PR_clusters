@@ -1,0 +1,128 @@
+nodemcu/nodemcu-firmware 51 993
+nodemcu/nodemcu-firmware 68 1114
+nodemcu/nodemcu-firmware 76 2805 2898
+nodemcu/nodemcu-firmware 78 523 595 1231 1367 1377 1388 1390 1414 1497 1529 1646 1659 1755 1771 1901 1910 1912
+nodemcu/nodemcu-firmware 89 93
+nodemcu/nodemcu-firmware 91 1565 1738 2120 2249 2250 2255 2259 2261 2448 2454 2472 2497 2544 2547 2548 2571 2660 2669 2673 2694 2695 2697 2700 2708 2709 2742 2745 2747 2766 2767 2768 2769 2790 2793 2801 2819 2836 2838 2841 2842 2844 2845 2854 2856 2859 2861 2862 2877 2912 2914 2915 2938 2953 2974 2983 2984 3006 3023 3033 3060 3070 3075 3087 3090 3094 3100 3101 3124 3132 3139 3149 3161
+nodemcu/nodemcu-firmware 120 2320
+nodemcu/nodemcu-firmware 170 172
+nodemcu/nodemcu-firmware 182 197 272
+nodemcu/nodemcu-firmware 198 1192 1197
+nodemcu/nodemcu-firmware 226 227 236 247 251 256 258 260 263 266
+nodemcu/nodemcu-firmware 333 496 504 509 570 902 951 970 984 1155 1263 1297
+nodemcu/nodemcu-firmware 342 344 346
+nodemcu/nodemcu-firmware 361 1216
+nodemcu/nodemcu-firmware 404 406
+nodemcu/nodemcu-firmware 423 424
+nodemcu/nodemcu-firmware 443 447 450 462 467
+nodemcu/nodemcu-firmware 488 489
+nodemcu/nodemcu-firmware 500 506
+nodemcu/nodemcu-firmware 501 507
+nodemcu/nodemcu-firmware 522 525
+nodemcu/nodemcu-firmware 551 560 571 575
+nodemcu/nodemcu-firmware 572 592
+nodemcu/nodemcu-firmware 573 687 765 777 786
+nodemcu/nodemcu-firmware 688 1985 2006
+nodemcu/nodemcu-firmware 693 702 705
+nodemcu/nodemcu-firmware 695 703 713
+nodemcu/nodemcu-firmware 697 718
+nodemcu/nodemcu-firmware 699 700
+nodemcu/nodemcu-firmware 725 731
+nodemcu/nodemcu-firmware 729 770
+nodemcu/nodemcu-firmware 750 751
+nodemcu/nodemcu-firmware 769 814 817 818
+nodemcu/nodemcu-firmware 793 794
+nodemcu/nodemcu-firmware 797 812
+nodemcu/nodemcu-firmware 842 852 854 855
+nodemcu/nodemcu-firmware 858 861
+nodemcu/nodemcu-firmware 878 935
+nodemcu/nodemcu-firmware 886 887
+nodemcu/nodemcu-firmware 917 928
+nodemcu/nodemcu-firmware 934 944
+nodemcu/nodemcu-firmware 945 946
+nodemcu/nodemcu-firmware 973 1198
+nodemcu/nodemcu-firmware 985 1002
+nodemcu/nodemcu-firmware 1000 1023 1061
+nodemcu/nodemcu-firmware 1004 1037
+nodemcu/nodemcu-firmware 1008 1018 1067 1070 1127 1142 1167 1423
+nodemcu/nodemcu-firmware 1017 1026 1327 1359
+nodemcu/nodemcu-firmware 1049 1050
+nodemcu/nodemcu-firmware 1057 1082 1100
+nodemcu/nodemcu-firmware 1060 1062 1199
+nodemcu/nodemcu-firmware 1064 1226
+nodemcu/nodemcu-firmware 1072 1106
+nodemcu/nodemcu-firmware 1088 1104 1767
+nodemcu/nodemcu-firmware 1113 1120
+nodemcu/nodemcu-firmware 1116 1212
+nodemcu/nodemcu-firmware 1123 1129
+nodemcu/nodemcu-firmware 1138 1221 1583
+nodemcu/nodemcu-firmware 1143 1148 1291 1332 1336 1431
+nodemcu/nodemcu-firmware 1183 1249
+nodemcu/nodemcu-firmware 1190 1207
+nodemcu/nodemcu-firmware 1200 1206 1213 1214
+nodemcu/nodemcu-firmware 1242 1748 1847 1848 2188 2231
+nodemcu/nodemcu-firmware 1251 1252 1253
+nodemcu/nodemcu-firmware 1286 1294
+nodemcu/nodemcu-firmware 1310 1408
+nodemcu/nodemcu-firmware 1324 1465
+nodemcu/nodemcu-firmware 1362 1426
+nodemcu/nodemcu-firmware 1379 1433 1435 1558 1566 1568 1601 1627 1653 1694 1710
+nodemcu/nodemcu-firmware 1397 1487 1489 1539 1570
+nodemcu/nodemcu-firmware 1424 1532 1533 1538 1683 1724 1746
+nodemcu/nodemcu-firmware 1437 1438
+nodemcu/nodemcu-firmware 1500 1525 1526 1527
+nodemcu/nodemcu-firmware 1530 1541 2631
+nodemcu/nodemcu-firmware 1564 1648 1649 1814
+nodemcu/nodemcu-firmware 1585 1587
+nodemcu/nodemcu-firmware 1589 2465
+nodemcu/nodemcu-firmware 1652 1662
+nodemcu/nodemcu-firmware 1668 1669
+nodemcu/nodemcu-firmware 1697 2084 2088
+nodemcu/nodemcu-firmware 1735 1794
+nodemcu/nodemcu-firmware 1743 2008 2297
+nodemcu/nodemcu-firmware 1820 1899 1996 2003
+nodemcu/nodemcu-firmware 1838 2047 2053
+nodemcu/nodemcu-firmware 1880 1887 1895 2276
+nodemcu/nodemcu-firmware 1884 1938
+nodemcu/nodemcu-firmware 1886 2132 2493 2810 2827 2852
+nodemcu/nodemcu-firmware 1939 1998 2018
+nodemcu/nodemcu-firmware 1955 1956
+nodemcu/nodemcu-firmware 1962 1968 2055 2056 2062 2064 2079 2107 2287 2301 2310 2345 2417
+nodemcu/nodemcu-firmware 2019 2021
+nodemcu/nodemcu-firmware 2054 2071
+nodemcu/nodemcu-firmware 2066 2642
+nodemcu/nodemcu-firmware 2104 2562
+nodemcu/nodemcu-firmware 2125 2128
+nodemcu/nodemcu-firmware 2133 2135 2137
+nodemcu/nodemcu-firmware 2205 2208 2210
+nodemcu/nodemcu-firmware 2269 2309 2312 2330 2368 2378
+nodemcu/nodemcu-firmware 2307 2501 2509
+nodemcu/nodemcu-firmware 2369 2557 2679
+nodemcu/nodemcu-firmware 2427 2500 2503 2508
+nodemcu/nodemcu-firmware 2468 2665 2692
+nodemcu/nodemcu-firmware 2483 2491
+nodemcu/nodemcu-firmware 2492 2581
+nodemcu/nodemcu-firmware 2518 2520
+nodemcu/nodemcu-firmware 2519 2545 2730
+nodemcu/nodemcu-firmware 2540 2551
+nodemcu/nodemcu-firmware 2543 2577
+nodemcu/nodemcu-firmware 2567 2636
+nodemcu/nodemcu-firmware 2583 2618
+nodemcu/nodemcu-firmware 2592 2594
+nodemcu/nodemcu-firmware 2603 2650 2654 2671
+nodemcu/nodemcu-firmware 2605 2609
+nodemcu/nodemcu-firmware 2610 2617
+nodemcu/nodemcu-firmware 2628 2657
+nodemcu/nodemcu-firmware 2629 2704
+nodemcu/nodemcu-firmware 2723 2735
+nodemcu/nodemcu-firmware 2791 3012 3151
+nodemcu/nodemcu-firmware 2795 2807
+nodemcu/nodemcu-firmware 2820 2855
+nodemcu/nodemcu-firmware 2830 2886 2888
+nodemcu/nodemcu-firmware 2846 2851
+nodemcu/nodemcu-firmware 2996 3029
+nodemcu/nodemcu-firmware 3015 3016
+nodemcu/nodemcu-firmware 3067 3135 3197 3202
+nodemcu/nodemcu-firmware 3114 3115
+nodemcu/nodemcu-firmware 3123 3134 3137
+nodemcu/nodemcu-firmware 3171 3193

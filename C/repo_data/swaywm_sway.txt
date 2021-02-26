@@ -1,0 +1,245 @@
+swaywm/sway 3 4 7 8 9 10 12 13 14 15 16 17 18 19 23 31 33 1234 1431 1690 2088 2180 2375 2649 2794 2821 3088 3382 3438 3452 4205 4467 4584 4588 4733 4781 4979 5161 5181 5215 5216
+swaywm/sway 30 3022
+swaywm/sway 37 5403
+swaywm/sway 38 39 463 1108 1991 2034 2182 2580 4740 4932 5130 5204
+swaywm/sway 42 4805
+swaywm/sway 45 3578
+swaywm/sway 46 101 2676
+swaywm/sway 52 4936
+swaywm/sway 55 1019
+swaywm/sway 70 142 195 911 5001
+swaywm/sway 86 4255
+swaywm/sway 92 728 4476 5477
+swaywm/sway 110 3206 3218 3219
+swaywm/sway 150 152
+swaywm/sway 155 1636 3542
+swaywm/sway 188 189
+swaywm/sway 198 199
+swaywm/sway 205 210
+swaywm/sway 247 248
+swaywm/sway 273 644
+swaywm/sway 309 311
+swaywm/sway 329 1001 4289
+swaywm/sway 335 336
+swaywm/sway 358 359 360
+swaywm/sway 369 1327
+swaywm/sway 388 389
+swaywm/sway 391 407
+swaywm/sway 401 402
+swaywm/sway 406 729
+swaywm/sway 425 5063
+swaywm/sway 450 737 738
+swaywm/sway 497 1505
+swaywm/sway 500 882
+swaywm/sway 527 580
+swaywm/sway 529 3199 3211
+swaywm/sway 559 560
+swaywm/sway 566 606
+swaywm/sway 568 2325
+swaywm/sway 616 619
+swaywm/sway 628 5440
+swaywm/sway 632 1585
+swaywm/sway 650 656
+swaywm/sway 675 692
+swaywm/sway 687 690
+swaywm/sway 750 773
+swaywm/sway 762 765 1641
+swaywm/sway 787 1674
+swaywm/sway 866 867
+swaywm/sway 876 879 1824 1831
+swaywm/sway 891 924
+swaywm/sway 904 907
+swaywm/sway 945 954
+swaywm/sway 948 952
+swaywm/sway 963 981
+swaywm/sway 991 4307
+swaywm/sway 1041 2630
+swaywm/sway 1101 1105
+swaywm/sway 1145 2300
+swaywm/sway 1150 1169 1171
+swaywm/sway 1173 1185
+swaywm/sway 1313 1323 1324
+swaywm/sway 1317 1319 1320
+swaywm/sway 1322 1329
+swaywm/sway 1330 1333 2896
+swaywm/sway 1439 1517
+swaywm/sway 1443 1446
+swaywm/sway 1504 3516 3536
+swaywm/sway 1513 1519 1803
+swaywm/sway 1531 1711
+swaywm/sway 1533 3645
+swaywm/sway 1554 3704
+swaywm/sway 1555 1570 5229 5265
+swaywm/sway 1590 1591
+swaywm/sway 1611 3860
+swaywm/sway 1614 1615
+swaywm/sway 1638 3966
+swaywm/sway 1647 1653
+swaywm/sway 1660 1669
+swaywm/sway 1680 1683 1684
+swaywm/sway 1693 1702
+swaywm/sway 1756 1759
+swaywm/sway 1757 1758
+swaywm/sway 1760 4282
+swaywm/sway 1762 4355 4434 4845
+swaywm/sway 1780 1792
+swaywm/sway 1811 4525
+swaywm/sway 1815 4537
+swaywm/sway 1848 4615
+swaywm/sway 1851 1852
+swaywm/sway 1878 4673
+swaywm/sway 1881 4675
+swaywm/sway 1911 2027
+swaywm/sway 1912 1915 1917
+swaywm/sway 1928 1943 1953 1954 1968
+swaywm/sway 1942 4766 4772
+swaywm/sway 1952 1959
+swaywm/sway 1979 3307 3334 3335 3337
+swaywm/sway 2009 3474 3478 3485
+swaywm/sway 2043 5049
+swaywm/sway 2047 2131 2511 2726 5243
+swaywm/sway 2060 2066
+swaywm/sway 2064 2080 5090
+swaywm/sway 2070 2084 2087 2509 2514 5088 5113
+swaywm/sway 2081 2082
+swaywm/sway 2097 5188
+swaywm/sway 2102 2136
+swaywm/sway 2108 2115
+swaywm/sway 2112 2225
+swaywm/sway 2114 2350 2393
+swaywm/sway 2122 2318
+swaywm/sway 2162 2217 2242 5222 5254 5256 5258 5259 5368 5470
+swaywm/sway 2175 5314
+swaywm/sway 2183 2224
+swaywm/sway 2196 2204
+swaywm/sway 2197 2396 2403 2466
+swaywm/sway 2203 2206
+swaywm/sway 2229 2230 5077 5393 5425
+swaywm/sway 2234 5400
+swaywm/sway 2239 2265 2930
+swaywm/sway 2264 2276
+swaywm/sway 2272 2275
+swaywm/sway 2284 2369
+swaywm/sway 2296 2303 2308
+swaywm/sway 2306 5489
+swaywm/sway 2317 5431 5459
+swaywm/sway 2366 2400
+swaywm/sway 2367 2389 2390
+swaywm/sway 2410 2411
+swaywm/sway 2420 2428
+swaywm/sway 2439 2440
+swaywm/sway 2499 2520
+swaywm/sway 2530 2540
+swaywm/sway 2533 2536
+swaywm/sway 2550 2564
+swaywm/sway 2553 2572
+swaywm/sway 2571 2574
+swaywm/sway 2612 2615 2617
+swaywm/sway 2622 2631
+swaywm/sway 2645 3249 3313 3340 3341 3342 3343 3344 3357 3398 3403 3423 3425
+swaywm/sway 2672 2716
+swaywm/sway 2695 5500
+swaywm/sway 2729 2805
+swaywm/sway 2739 2740
+swaywm/sway 2751 2791 2793 2795 2798 2808
+swaywm/sway 2762 2769
+swaywm/sway 2785 2789
+swaywm/sway 2831 2935
+swaywm/sway 2843 2862 2865
+swaywm/sway 2855 2864 3176 3178
+swaywm/sway 2872 2886
+swaywm/sway 2911 2933
+swaywm/sway 2929 2970
+swaywm/sway 2932 2937
+swaywm/sway 2955 3741
+swaywm/sway 2958 2989
+swaywm/sway 2975 2980
+swaywm/sway 2979 3054
+swaywm/sway 2993 3011
+swaywm/sway 3031 3767
+swaywm/sway 3040 3041
+swaywm/sway 3049 3073 3075
+swaywm/sway 3052 3061
+swaywm/sway 3058 3998
+swaywm/sway 3081 3091
+swaywm/sway 3083 3098 3113
+swaywm/sway 3121 3551
+swaywm/sway 3145 3169
+swaywm/sway 3155 3188 3189 4504
+swaywm/sway 3160 3171
+swaywm/sway 3166 4931
+swaywm/sway 3200 3226
+swaywm/sway 3209 3777
+swaywm/sway 3288 3291
+swaywm/sway 3314 3315
+swaywm/sway 3348 3353
+swaywm/sway 3367 3404
+swaywm/sway 3369 3370
+swaywm/sway 3385 3386 3387 3388
+swaywm/sway 3394 3408
+swaywm/sway 3416 3585
+swaywm/sway 3430 3440
+swaywm/sway 3451 3493
+swaywm/sway 3454 3455
+swaywm/sway 3543 3673
+swaywm/sway 3567 3665
+swaywm/sway 3581 3582
+swaywm/sway 3595 3619 3623
+swaywm/sway 3646 3852
+swaywm/sway 3674 3676
+swaywm/sway 3675 3678
+swaywm/sway 3697 3711
+swaywm/sway 3708 3710 3729
+swaywm/sway 3743 3744
+swaywm/sway 3766 3788
+swaywm/sway 3774 4463
+swaywm/sway 3810 3812 3822 3836
+swaywm/sway 3854 3865
+swaywm/sway 3864 3869
+swaywm/sway 3905 3916 3920
+swaywm/sway 3962 4011
+swaywm/sway 3978 3992 4037
+swaywm/sway 3982 4003
+swaywm/sway 4049 4051
+swaywm/sway 4062 4092 4189
+swaywm/sway 4084 4128
+swaywm/sway 4122 4124 4141
+swaywm/sway 4153 4173
+swaywm/sway 4158 4160 4171
+swaywm/sway 4159 4500 4534
+swaywm/sway 4187 4188
+swaywm/sway 4202 4220
+swaywm/sway 4241 4242
+swaywm/sway 4283 4284 4293 4298 4310
+swaywm/sway 4315 4319
+swaywm/sway 4342 4343 4351 4394
+swaywm/sway 4392 4393 4440
+swaywm/sway 4446 4448
+swaywm/sway 4493 4550
+swaywm/sway 4521 4522
+swaywm/sway 4532 5092
+swaywm/sway 4577 4657
+swaywm/sway 4587 4627
+swaywm/sway 4646 4648
+swaywm/sway 4694 4708
+swaywm/sway 4702 4704
+swaywm/sway 4757 4782
+swaywm/sway 4775 4777
+swaywm/sway 4789 4791
+swaywm/sway 4794 4795
+swaywm/sway 4884 4885
+swaywm/sway 4916 4917
+swaywm/sway 4949 5371
+swaywm/sway 4996 5394
+swaywm/sway 5021 5124 5307 5322 5323 5324
+swaywm/sway 5032 5042
+swaywm/sway 5075 5079
+swaywm/sway 5082 5451
+swaywm/sway 5108 5143 5237 5238
+swaywm/sway 5250 5292 5299
+swaywm/sway 5300 5334
+swaywm/sway 5317 5360
+swaywm/sway 5407 5485
+swaywm/sway 5448 5454
+swaywm/sway 5465 5466
+swaywm/sway 5521 5535

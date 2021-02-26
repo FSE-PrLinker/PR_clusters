@@ -1,0 +1,251 @@
+iNavFlight/inav 60 709 747
+iNavFlight/inav 64 66 67
+iNavFlight/inav 84 125 126 127 1093 1404
+iNavFlight/inav 101 128 149
+iNavFlight/inav 111 1118 1120
+iNavFlight/inav 118 1158
+iNavFlight/inav 124 1189
+iNavFlight/inav 143 148 151 228 1589 1680 1699 1978 2044 2306
+iNavFlight/inav 168 180 238 244 307 1503
+iNavFlight/inav 169 1405
+iNavFlight/inav 170 1417
+iNavFlight/inav 186 3573
+iNavFlight/inav 194 1698
+iNavFlight/inav 195 1660
+iNavFlight/inav 204 240
+iNavFlight/inav 214 258 364
+iNavFlight/inav 215 1819
+iNavFlight/inav 224 1949 1966 1977
+iNavFlight/inav 227 2042
+iNavFlight/inav 249 256
+iNavFlight/inav 254 1543 2176
+iNavFlight/inav 261 278
+iNavFlight/inav 266 313
+iNavFlight/inav 273 2288
+iNavFlight/inav 281 2351
+iNavFlight/inav 285 423
+iNavFlight/inav 314 597
+iNavFlight/inav 328 2661 2668 2672 2684 2705 2784 2785 2794
+iNavFlight/inav 341 397 690 696 2768 2941 2945 4386
+iNavFlight/inav 358 375 410 574 634 635
+iNavFlight/inav 369 409 421 680 761 762
+iNavFlight/inav 386 543 687 783 789 790 793 2902 2915 2956 2964
+iNavFlight/inav 389 402
+iNavFlight/inav 391 2947
+iNavFlight/inav 392 2955
+iNavFlight/inav 401 3008
+iNavFlight/inav 422 426
+iNavFlight/inav 427 3165 3166
+iNavFlight/inav 428 3164
+iNavFlight/inav 430 435 3169
+iNavFlight/inav 434 1925
+iNavFlight/inav 436 731 744 801 809 903 2473 4147
+iNavFlight/inav 443 3196 3197
+iNavFlight/inav 465 1010
+iNavFlight/inav 471 1046
+iNavFlight/inav 481 485 3401
+iNavFlight/inav 487 1659 3436
+iNavFlight/inav 510 642 649
+iNavFlight/inav 515 560 4537
+iNavFlight/inav 585 592 3941 3978 3979 3981 4282
+iNavFlight/inav 593 645
+iNavFlight/inav 596 3931
+iNavFlight/inav 612 614 615 616 617 2413
+iNavFlight/inav 619 815 853 1905
+iNavFlight/inav 623 907
+iNavFlight/inav 626 4145
+iNavFlight/inav 628 4148
+iNavFlight/inav 633 4164
+iNavFlight/inav 658 664 685
+iNavFlight/inav 667 674
+iNavFlight/inav 673 4103 4302
+iNavFlight/inav 688 703 717
+iNavFlight/inav 701 4388
+iNavFlight/inav 705 826
+iNavFlight/inav 707 711
+iNavFlight/inav 736 4551
+iNavFlight/inav 745 776
+iNavFlight/inav 752 763 764
+iNavFlight/inav 759 3795
+iNavFlight/inav 777 4704 4717 4730
+iNavFlight/inav 782 800 817 4916
+iNavFlight/inav 795 891 4833 4835
+iNavFlight/inav 822 5006
+iNavFlight/inav 823 5028
+iNavFlight/inav 835 5090
+iNavFlight/inav 843 845 5133
+iNavFlight/inav 846 1467
+iNavFlight/inav 875 5235
+iNavFlight/inav 883 884
+iNavFlight/inav 894 895
+iNavFlight/inav 905 5314 5453
+iNavFlight/inav 909 946
+iNavFlight/inav 918 3039 5386
+iNavFlight/inav 919 928
+iNavFlight/inav 957 1031 1075 1270
+iNavFlight/inav 958 963
+iNavFlight/inav 960 5598
+iNavFlight/inav 971 5623
+iNavFlight/inav 972 1019 1086
+iNavFlight/inav 986 995
+iNavFlight/inav 1017 5829
+iNavFlight/inav 1020 1021
+iNavFlight/inav 1028 5711
+iNavFlight/inav 1077 2894
+iNavFlight/inav 1101 1106
+iNavFlight/inav 1152 1153
+iNavFlight/inav 1179 1205
+iNavFlight/inav 1183 1251
+iNavFlight/inav 1206 1325
+iNavFlight/inav 1228 1257 1484
+iNavFlight/inav 1382 1398
+iNavFlight/inav 1396 1397
+iNavFlight/inav 1400 1403 1406
+iNavFlight/inav 1424 1457
+iNavFlight/inav 1450 1453
+iNavFlight/inav 1463 1464 1471 1672 1673 1678
+iNavFlight/inav 1493 1498
+iNavFlight/inav 1495 2014 2833
+iNavFlight/inav 1576 1609 1695 1909 2084
+iNavFlight/inav 1591 1779 1826 1889
+iNavFlight/inav 1621 3042
+iNavFlight/inav 1647 1651
+iNavFlight/inav 1732 1743
+iNavFlight/inav 1741 2028 2030 2041
+iNavFlight/inav 1752 1825
+iNavFlight/inav 1770 1838
+iNavFlight/inav 1831 3726
+iNavFlight/inav 1841 1888
+iNavFlight/inav 1891 1898
+iNavFlight/inav 1899 3725
+iNavFlight/inav 1920 2097
+iNavFlight/inav 1935 2062 5309
+iNavFlight/inav 1948 3202
+iNavFlight/inav 1976 2892 3977
+iNavFlight/inav 2002 2050
+iNavFlight/inav 2003 2068
+iNavFlight/inav 2012 2017
+iNavFlight/inav 2019 2033
+iNavFlight/inav 2037 2201
+iNavFlight/inav 2092 2094
+iNavFlight/inav 2105 2108 2110 2111
+iNavFlight/inav 2133 5449 5485 5508
+iNavFlight/inav 2137 2138 2177
+iNavFlight/inav 2139 2346 2482 2492
+iNavFlight/inav 2170 2171
+iNavFlight/inav 2212 2214
+iNavFlight/inav 2225 2226
+iNavFlight/inav 2244 2303
+iNavFlight/inav 2247 2248
+iNavFlight/inav 2275 2424 2538
+iNavFlight/inav 2281 2350
+iNavFlight/inav 2284 2450 2863 2951 2958 3190 3268 3364
+iNavFlight/inav 2290 2486
+iNavFlight/inav 2338 2352
+iNavFlight/inav 2348 2354 2356
+iNavFlight/inav 2389 2394
+iNavFlight/inav 2397 2405
+iNavFlight/inav 2411 2417
+iNavFlight/inav 2435 2445
+iNavFlight/inav 2449 2465
+iNavFlight/inav 2460 2471 2799
+iNavFlight/inav 2502 2512 2513 2514
+iNavFlight/inav 2566 2842 2954 3033 3222 3224 3910
+iNavFlight/inav 2573 2637
+iNavFlight/inav 2611 2647
+iNavFlight/inav 2675 2681
+iNavFlight/inav 2691 2751 5154 5318
+iNavFlight/inav 2716 2717
+iNavFlight/inav 2718 2835
+iNavFlight/inav 2738 2742
+iNavFlight/inav 2756 2769
+iNavFlight/inav 2809 5289 5303
+iNavFlight/inav 2815 2816
+iNavFlight/inav 2818 2820
+iNavFlight/inav 2830 2838
+iNavFlight/inav 2852 2974 2980 3079
+iNavFlight/inav 2875 2876
+iNavFlight/inav 2878 3041
+iNavFlight/inav 2944 3060
+iNavFlight/inav 3018 4742
+iNavFlight/inav 3046 3047
+iNavFlight/inav 3048 3070
+iNavFlight/inav 3062 3146 3294
+iNavFlight/inav 3072 3262
+iNavFlight/inav 3120 3189
+iNavFlight/inav 3150 3192
+iNavFlight/inav 3253 3350
+iNavFlight/inav 3255 3266
+iNavFlight/inav 3265 3510
+iNavFlight/inav 3297 3311
+iNavFlight/inav 3314 3338
+iNavFlight/inav 3324 3413
+iNavFlight/inav 3349 3646
+iNavFlight/inav 3363 3478 3479 3482 3493
+iNavFlight/inav 3376 3394
+iNavFlight/inav 3535 4621
+iNavFlight/inav 3540 3541 3561 3593
+iNavFlight/inav 3566 4696
+iNavFlight/inav 3569 3597
+iNavFlight/inav 3611 3613
+iNavFlight/inav 3668 3674
+iNavFlight/inav 3833 3879 3894 4039 4046 4056
+iNavFlight/inav 3949 3971
+iNavFlight/inav 3962 3974
+iNavFlight/inav 4006 4354 4369
+iNavFlight/inav 4052 4741
+iNavFlight/inav 4090 4094
+iNavFlight/inav 4110 4111 4128
+iNavFlight/inav 4112 4116 4558
+iNavFlight/inav 4117 4118
+iNavFlight/inav 4187 4290 5039
+iNavFlight/inav 4188 4778 4794
+iNavFlight/inav 4199 4211 4212
+iNavFlight/inav 4220 4232
+iNavFlight/inav 4249 4276
+iNavFlight/inav 4252 4650
+iNavFlight/inav 4292 4294
+iNavFlight/inav 4348 4360
+iNavFlight/inav 4424 4425
+iNavFlight/inav 4448 4681
+iNavFlight/inav 4464 4521
+iNavFlight/inav 4508 4624
+iNavFlight/inav 4513 4516
+iNavFlight/inav 4517 5098 5917
+iNavFlight/inav 4529 4562 4612
+iNavFlight/inav 4533 4561
+iNavFlight/inav 4589 4648
+iNavFlight/inav 4677 4679
+iNavFlight/inav 4701 4714 4889
+iNavFlight/inav 4709 4713
+iNavFlight/inav 4738 4740
+iNavFlight/inav 4758 4773
+iNavFlight/inav 4760 4790
+iNavFlight/inav 4784 5398 5400 5439 5460
+iNavFlight/inav 4795 4801
+iNavFlight/inav 4846 5038
+iNavFlight/inav 4861 5684
+iNavFlight/inav 4868 4884
+iNavFlight/inav 4913 4920
+iNavFlight/inav 4930 5226 5256 5287 5292
+iNavFlight/inav 4944 4946
+iNavFlight/inav 4961 4962
+iNavFlight/inav 5005 5011
+iNavFlight/inav 5034 5149
+iNavFlight/inav 5129 5261
+iNavFlight/inav 5187 5196
+iNavFlight/inav 5231 5361
+iNavFlight/inav 5274 5629 5632
+iNavFlight/inav 5346 5461 5713
+iNavFlight/inav 5383 5387
+iNavFlight/inav 5455 5465
+iNavFlight/inav 5489 5497
+iNavFlight/inav 5540 5757 5791
+iNavFlight/inav 5568 5569
+iNavFlight/inav 5603 5787
+iNavFlight/inav 5683 5699
+iNavFlight/inav 5758 5886
+iNavFlight/inav 5762 5839
+iNavFlight/inav 5763 5765
+iNavFlight/inav 5905 5906
+iNavFlight/inav 5933 5934

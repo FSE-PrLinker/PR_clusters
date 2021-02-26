@@ -1,0 +1,125 @@
+geany/geany 1 2 3 165 175 181 193 244 255 257 351 355 356 358 361 367 376 428 429 439 441 469 582 1094 1112 1212 1233 1236 1406 2085
+geany/geany 6 442 1445 1748 2262
+geany/geany 7 479 485 491 1482
+geany/geany 8 1395 1633
+geany/geany 20 260
+geany/geany 21 24
+geany/geany 25 917
+geany/geany 26 29
+geany/geany 30 31
+geany/geany 32 33 450 586 600
+geany/geany 39 74 75
+geany/geany 51 52 890 1222 1257 1426 1430 1860 2114 2234
+geany/geany 58 156 230
+geany/geany 59 60
+geany/geany 64 263
+geany/geany 79 103 104 114 124
+geany/geany 85 524 556 566 1181 1182 1362 1579 2365
+geany/geany 92 93 842
+geany/geany 96 97
+geany/geany 105 206
+geany/geany 107 108 134
+geany/geany 131 139 155
+geany/geany 142 182
+geany/geany 150 173 178 179
+geany/geany 174 180
+geany/geany 184 246
+geany/geany 185 411 418 433 721 724 1461
+geany/geany 187 188
+geany/geany 191 1649
+geany/geany 194 208
+geany/geany 197 565
+geany/geany 205 270
+geany/geany 218 219
+geany/geany 232 504
+geany/geany 238 481
+geany/geany 243 408
+geany/geany 245 279 280
+geany/geany 247 256
+geany/geany 253 254
+geany/geany 259 1813 2346 2347 2348 2352
+geany/geany 277 281 326
+geany/geany 298 328
+geany/geany 305 749 752 1331
+geany/geany 311 769
+geany/geany 327 454 895
+geany/geany 347 348
+geany/geany 365 380 911
+geany/geany 381 505 857 906 931 932 2309
+geany/geany 405 413 544
+geany/geany 406 487 862 957 1068
+geany/geany 407 2250
+geany/geany 436 2116
+geany/geany 437 445
+geany/geany 446 597 606 637 653 658
+geany/geany 468 470
+geany/geany 475 797
+geany/geany 496 831
+geany/geany 512 516
+geany/geany 518 519 575 1022
+geany/geany 523 555
+geany/geany 529 1377 1381 1382 1383
+geany/geany 536 1400
+geany/geany 539 540 567 568 569 570 573
+geany/geany 550 551
+geany/geany 560 959
+geany/geany 576 924
+geany/geany 595 613
+geany/geany 607 2259
+geany/geany 646 697 882 1017 1168 1169 1170 1173 1263 1265 1323 1598 1752 1811 1914 2021
+geany/geany 647 660
+geany/geany 708 711
+geany/geany 719 759 760 1806
+geany/geany 735 1829
+geany/geany 744 826
+geany/geany 748 755
+geany/geany 792 858
+geany/geany 935 939 948 956
+geany/geany 937 1079
+geany/geany 940 941
+geany/geany 943 1087 1091
+geany/geany 952 955
+geany/geany 963 1224 1414
+geany/geany 1026 1029
+geany/geany 1058 1125 1126
+geany/geany 1095 1300
+geany/geany 1114 1537
+geany/geany 1142 2014
+geany/geany 1160 1177 1187 1188
+geany/geany 1180 1190 1194
+geany/geany 1185 1186
+geany/geany 1191 1197
+geany/geany 1201 1202
+geany/geany 1223 1235
+geany/geany 1237 1301
+geany/geany 1245 1246 1463 1471
+geany/geany 1280 1282
+geany/geany 1328 1339
+geany/geany 1402 1502
+geany/geany 1450 2187
+geany/geany 1470 1554 1561
+geany/geany 1503 1504
+geany/geany 1621 1628
+geany/geany 1697 2339
+geany/geany 1750 2316
+geany/geany 1784 1799
+geany/geany 1816 1817
+geany/geany 1820 1878
+geany/geany 1830 1831
+geany/geany 1908 2171 2178
+geany/geany 1968 1976
+geany/geany 1989 1991
+geany/geany 2018 2019
+geany/geany 2027 2032
+geany/geany 2055 2058 2060
+geany/geany 2067 2149
+geany/geany 2074 2176
+geany/geany 2132 2134
+geany/geany 2166 2167
+geany/geany 2256 2272
+geany/geany 2268 2269
+geany/geany 2301 2307 2326
+geany/geany 2325 2327 2328
+geany/geany 2355 2356 2371
+geany/geany 2363 2372
+geany/geany 2469 2521
